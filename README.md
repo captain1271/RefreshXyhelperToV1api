@@ -16,3 +16,8 @@
 - **微信**: Csg1271932463
 
   <img src="https://github.com/realnoob007/ChatGPT-Share-Web/assets/37624778/8423d852-239d-4e09-a093-9359f3a7f7c5" width="320">
+
+## 项目推荐
+[ChatGPT-Share-Web](https://github.com/realnoob007/ChatGPT-Share-Web)
+
+基于ChatGPT-Share开发的商业版镜像站的部署仓库，旨在提供完全代理ChatGPT官网，包含完整的用户系统，对接官方ChatGPT网站的全部功能，集成无缝支付系统，以及管理员后台面板，实现全面的站点管理。
